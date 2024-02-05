@@ -4,9 +4,10 @@ Simple Mule project with an HTTP Listener, a Set Payload, and some properties un
 
 ## Content
 
-Please refer to the following blog post for more information: 
+Please refer to the following resources for more information: 
 
-[How to add JVM/Command-line arguments to the Mule 4 Runtime in Anypoint Code Builder (ACB)](https://www.prostdev.com/post/how-to-add-jvm-command-line-arguments-to-the-mule-4-runtime-in-anypoint-code-builder-acb)
+- [Article 📘](https://www.prostdev.com/post/how-to-add-jvm-command-line-arguments-to-the-mule-4-runtime-in-anypoint-code-builder-acb)
+- [Video ▶️](https://youtu.be/-u9jZ45Ut1A)
 
 ## How to use
 
